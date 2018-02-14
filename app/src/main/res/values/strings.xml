@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Activity Navigation Drawer</string>
+
+    <string name="title_activity_main">Main</string>
+    <string name="title_activity_gallery">Gallery</string>
+    <string name="title_activity_slideshow">Slide Show</string>
+    <string name="title_activity_manage">Manage</string>
+    <string name="title_activity_communicate">Communicate</string>
+    <string name="title_activity_share">Share</string>
+    <string name="title_activity_send">Send</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+</resources>
